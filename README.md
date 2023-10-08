@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=heeone1)](https://github.com/ryo-ma/github-profile-trophy)-->
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=75BDE0&height=300&section=header&text=KIM%20HEE%20WON&fontSize=90&animation=fadeIn)-->
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeone1&show_icons=true&theme=transparent)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeone1&layout=compact)](https://github.com/heeone1/github-readme-stats)
